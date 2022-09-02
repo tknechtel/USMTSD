@@ -4,6 +4,12 @@ Thesis Title: Unsupervised Segmentation of Mutivarite Time Series
 
 This repository is part of the experimental study performed in context of my master thesis. There, four segmentation techniques for time series are evaluated and compared. To minimize implementation bias, however, we only utilized methods for which the source code was public available. We chose GGS, FLUSS, AutoPlait and IGTS based on the review we conducted in the first part of this work. First, we provided an overview of the selected methods in order to provide context. We developed a framework containing various types of multivariate time series datasets containing both real data (motion capture data, medical data, financial data, sensor data, and biological data) and synthetically generated data. The experiments were evaluated by calculating the Regime Score and the F1 Score. Across all dataset categories, IGTS DP performed the best in terms of F1 Score and Regime Score. Looking at the different datasets, IGTS DP has won 6 of 8 F1 Score evaluations and 5 of 8 Regime Score evaluations, and has therefore outperformed all other methods.
 
+## Code
+
+## Colab
+
+## Data
+
 # References
 
 Sadri, A., Ren, Y., & Salim, F. D. (2017). Information gain-based metric for recognizing transitions in 
