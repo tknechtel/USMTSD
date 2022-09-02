@@ -1,6 +1,6 @@
-# Unsupervised Segmentation of Mutivarite Time Series (USMTSD)
+# Unsupervised Segmentation of Mutivariate Time Series Data (USMTSD)
 
-Thesis Title: Unsupervised Segmentation of Mutivarite Time Series - A Survey and experimental Study 
+Thesis Title: Unsupervised Segmentation of Mutivariate Time Series Data - A Survey and experimental Study 
 
 This repository is part of the experimental study performed in context of my master thesis. There, four segmentation techniques for time series are evaluated and compared. To minimize implementation bias, however, we only utilized methods for which the source code was public available. We chose GGS [^1], FLUSS (STUMPY implementation) [^2], AutoPlait [^3] and IGTS [^4] based on the review we conducted in the first part of this work. First, we provided an overview of the selected methods in order to provide context. We developed a framework containing various types of multivariate time series datasets containing both real data (motion capture data, medical data, financial data, sensor data, and biological data) and synthetically generated data. The experiments were evaluated by calculating the Regime Score and the F1 Score. Across all dataset categories, IGTS DP performed the best in terms of F1 Score and Regime Score. Looking at the different datasets, IGTS DP has won 6 of 8 F1 Score evaluations and 5 of 8 Regime Score evaluations, and has therefore outperformed all other methods.
 
