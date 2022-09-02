@@ -11,7 +11,7 @@ The [Code](https://github.com/tknechtel/USMTSD/tree/main/Code) folder contains t
 The [Colab](https://github.com/tknechtel/USMTSD/tree/main/Colab) folder contains two different files. The Dataset_Visualisation.ipynb is used for the visulation of the different datasets to gain a first inside. The secound notebook contains the performed experiments.
 
 ## Data
-The [Data](https://github.com/tknechtel/USMTSD/tree/main/Data) folder contain the different datasets we used in our experiments
+The [Data](https://github.com/tknechtel/USMTSD/tree/main/Data) folder contain the different datasets we used in our experiments.
 
 ## Results
 The results can be found in [here](https://github.com/tknechtel/USMTSD/blob/main/results.md).
