@@ -7,13 +7,13 @@ This repository is part of the experimental study performed in context of master
 
 Sadri, A., Ren, Y., & Salim, F. D. (2017). Information gain-based metric for recognizing transitions in 
 human activities. Pervasive and Mobile Computing, 38, 92-109.
-https://github.com/cruiseresearchgroup/IGTS-python 
+Github: https://github.com/cruiseresearchgroup/IGTS-python 
 
 Hallac, D., Nystrup, P., &amp; Boyd, S. (2018). Greedy gaussian segmentation of multivariate time series. Advances in Data Analysis and Classification, 13(3), 727–751. https://doi.org/10.1007/s11634-018-0335-0 
-https://github.com/cvxgrp/GGS
+Github: https://github.com/cvxgrp/GGS
 
 Law, S. (2019). Stumpy: A powerful and scalable Python Library for Time Series Data Mining. Journal of Open Source Software, 4(39), 1504. https://doi.org/10.21105/joss.01504 
-https://github.com/TDAmeritrade/stumpy
+Github: https://github.com/TDAmeritrade/stumpy
 
 Matsubara, Y., Sakurai, Y., &amp; Faloutsos, C. (2014). Autoplait. Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data. https://doi.org/10.1145/2588555.2588556 
-https://github.com/kokikwbt/autoplait
+Github: https://github.com/kokikwbt/autoplait
