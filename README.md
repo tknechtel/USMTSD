@@ -11,8 +11,7 @@ The [main.py](main_ucr.py) file contains a simple code to run the program on a s
 
 ## Data
 
-# References
-
+References:
 
 [^1]: Hallac, D., Nystrup, P., &amp; Boyd, S. (2018). Greedy gaussian segmentation of multivariate time series. Advances in Data Analysis and Classification, 13(3), 727–751. https://doi.org/10.1007/s11634-018-0335-0 
 Github: https://github.com/cvxgrp/GGS
